@@ -14,4 +14,5 @@ Giving flexibility to write code without fearof breaking the functionality.
 
 git init will initialize the repository
 
+staging area gives option to commit only changes that were made.
 
