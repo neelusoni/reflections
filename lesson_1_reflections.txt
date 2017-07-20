@@ -1,0 +1,17 @@
+How to use the Git
+
+Version control will help in restoring point in time code
+
+Commit per logical change. If commit interval is too large lots of changes might be lost. For too small interval too manhy versions will be created. 
+
+Some version controls allow multiple files in one commit as they work with code instead of docs.
+
+git log lists the commits in reverse chronological fashion
+
+With ability to go back to previous version it gives confidence for development.
+
+Giving flexibility to write code without fearof breaking the functionality.
+
+git init will initialize the repository
+
+
